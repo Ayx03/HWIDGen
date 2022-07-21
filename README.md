@@ -1,6 +1,8 @@
 # HWIDGen
 HWIDGen 是一款由国外 Nsane 论坛用户 s1ave77 制作的 Windows 10/11 数字权利激活工具，这款 Win10/11 数字权利获取工具，可以自动获取 Windows 10/11 数字许可证激活，无需产品密钥，以最简单的方式永久激活。
 
+[点击下载/Click to Download](https://github.com/Ayx03/HWIDGen/raw/main/HWIDGen%2060.01.exe)
+
 ![image](https://user-images.githubusercontent.com/75155322/177228396-91d9e467-b41a-453c-8046-f679d213ff53.png)
 
 数字许可证激活是一种授权方法，Windows 10 中新加入的激活方式。数字许可证会记录机器的硬件信息，在电脑硬件（如 CPU、硬盘和主板设备等）没有被更换的情况下数字权利激活一直有效，重新安装系统时无需再次输入产品密钥，就可以连接微软服务器自动永久性的激活系统。
