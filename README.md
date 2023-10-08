@@ -1,4 +1,14 @@
 # HWIDGen
+此工具可能已经失效，参考：
+
+[微软封杀Windows 10/11使用HWID永久激活 现有激活暂时不受影响](https://www.landiannews.com/archives/100422.html)
+
+[微软官方确认Win7/8不再支持免费升级Win11 HWID激活确实已经失效](https://www.landiannews.com/archives/100488.html)
+
+有需要激活的可尝试：
+
+[[教程] Windows 10/11重新支持永久激活 新方法为HWID 2可数字权利](https://www.landiannews.com/archives/100533.html)
+
 HWIDGen 是一款由国外 Nsane 论坛用户 s1ave77 制作的 Windows 10/11 数字权利激活工具，这款 Win10/11 数字权利获取工具，可以自动获取 Windows 10/11 数字许可证激活，无需产品密钥，以最简单的方式永久激活。
 
 [点击下载/Click to Download](https://github.com/Ayx03/HWIDGen/raw/main/HWIDGen%2060.01.exe)
